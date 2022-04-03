@@ -9,6 +9,7 @@ Download repo and run type in your terminal/cmd in same path as repo
 pip install -r requirements.txt
 python build.py
 ```
+If you want, you can replace the salt for extra security.
 
 ## Usage
 
