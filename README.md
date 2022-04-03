@@ -12,11 +12,10 @@ python build.py
 
 ## Usage
 
-1. The executable should be in dist, put it in your path directory. You can find it by typing on linux
+1. The executable should be in dist, put it in your path directory. You can find it by typing on linux in your terminal
 ```bash
 echo $PATH
 ```
-in your terminal
 2. In a directory you want to encrypt or decrypt some files, type "LOCRYPTOR" in your terminal and follow the options
 3. It will encrypt/decrypt all the files in the directories/subdirectories of the directory your terminal instance is
 
