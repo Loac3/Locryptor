@@ -121,9 +121,8 @@ choice = console.input("""
 
 [>] """)
 
-match choice:
-    case "1":
+if choice == "1":
         encrypt_all()
 
-    case "2":
+if choice == "2":
         decrypt_all()
